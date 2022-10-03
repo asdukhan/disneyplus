@@ -41,9 +41,6 @@ export default function Home({
           />
           <ShowsCollection results={top_ratedShows} title="Top Rated Shows" />
       </main>
-
-      
-     
     </div>
   )
 }
