@@ -31,7 +31,6 @@ export default function Home({
       after:bg-fixed after:absolute after:inset-0 after:z-[-1]'>
         <Slider/>
         <Brands/>
-       
         <MoviesCollection results={popularMovies} title="Popular Movies" />
           <ShowsCollection results={popularShows} title="Popular Shows" />
 
